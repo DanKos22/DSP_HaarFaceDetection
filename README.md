@@ -1,0 +1,1 @@
+This project demonstrates face detection using OpenCV’s Haar cascades. It loads an image, converts it to grayscale, and applies the detectMultiScale method with a pretrained Haar cascade classifier to locate faces. Detected faces are highlighted with bounding boxes.
